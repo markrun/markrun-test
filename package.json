@@ -1,0 +1,30 @@
+{
+  "name": "markrun-test",
+  "version": "0.1.0",
+  "description": "markrun test util",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --timeout 60000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markrun/markrun-test.git"
+  },
+  "keywords": [
+    "markrun"
+  ],
+  "author": "nimojs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markrun/markrun-test/issues"
+  },
+  "homepage": "https://github.com/markrun/markrun-test#readme",
+  "devDependencies": {
+    "markrun": "^0.3.0",
+    "mocha": "^3.1.2"
+  },
+  "dependencies": {
+    "expect.js": "^0.3.1",
+    "fs-extra": "^1.0.0"
+  }
+}
