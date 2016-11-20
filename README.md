@@ -1,6 +1,6 @@
 # markrun-test
 
-[![Build Status](https://api.travis-ci.org/markrun/markrun.svg)](https://travis-ci.org/markrun/markrun-test) [![NPM version](https://img.shields.io/npm/v/markrun.svg?style=flat)](https://npmjs.org/package/markrun-test) [![NPM downloads](http://img.shields.io/npm/dm/markrun.svg?style=flat)](https://npmjs.org/package/markrun-test)
+[![Build Status](https://api.travis-ci.org/markrun/markrun-test.svg)](https://travis-ci.org/markrun/markrun-test) [![NPM version](https://img.shields.io/npm/v/markrun-test.svg?style=flat)](https://npmjs.org/package/markrun-test) [![NPM downloads](http://img.shields.io/npm/dm/markrun-test.svg?style=flat)](https://npmjs.org/package/markrun-test)
 
 ```js
 var markrun = require('markrun')
